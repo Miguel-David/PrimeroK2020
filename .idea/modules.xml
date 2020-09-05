@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/Primera Evaluación.iml" filepath="$PROJECT_DIR$/Primera Evaluación/Primera Evaluación.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PrimeroK2020.iml" filepath="$PROJECT_DIR$/.idea/PrimeroK2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/Pruebas/Pruebas.iml" filepath="$PROJECT_DIR$/Primera Evaluación/Pruebas/Pruebas.iml" />
+    </modules>
+  </component>
+</project>
