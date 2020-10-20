@@ -29,6 +29,5 @@ public class MayorDeTres {
     } else {
       JOptionPane.showMessageDialog(null,"Te quiero");
     }
-
-  }
+ }
 }
