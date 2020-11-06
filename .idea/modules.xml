@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Primera Evaluación/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/Bucles/Bucles.iml" filepath="$PROJECT_DIR$/Primera Evaluación/Bucles/Bucles.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/Cuarta Semana/Cuarta Semana.iml" filepath="$PROJECT_DIR$/Primera Evaluación/Cuarta Semana/Cuarta Semana.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/EntradaUsuarioBuena/EntradaUsuarioBuena.iml" filepath="$PROJECT_DIR$/Primera Evaluación/EntradaUsuarioBuena/EntradaUsuarioBuena.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/Pruebas/Pruebas.iml" filepath="$PROJECT_DIR$/Primera Evaluación/Pruebas/Pruebas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/Quinta Semana/Quinta Semana.iml" filepath="$PROJECT_DIR$/Primera Evaluación/Quinta Semana/Quinta Semana.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/RepasoAntesNoviembre/RepasoAntesNoviembre.iml" filepath="$PROJECT_DIR$/Primera Evaluación/RepasoAntesNoviembre/RepasoAntesNoviembre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/RepasoClases/RepasoClases.iml" filepath="$PROJECT_DIR$/Primera Evaluación/RepasoClases/RepasoClases.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/Septima semana/Septima semana.iml" filepath="$PROJECT_DIR$/Primera Evaluación/Septima semana/Septima semana.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/Sexta Semana/Sexta Semana.iml" filepath="$PROJECT_DIR$/Primera Evaluación/Sexta Semana/Sexta Semana.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primera Evaluación/Soluciones/Soluciones.iml" filepath="$PROJECT_DIR$/Primera Evaluación/Soluciones/Soluciones.iml" />
